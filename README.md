@@ -1,0 +1,1 @@
+# seiridge-wc-theme
